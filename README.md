@@ -3,22 +3,6 @@
 
 # Netforge
 
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="48" fill="#8B0000"/>
-  <circle cx="256" cy="220" r="34" fill="#1a1a1a" />
-  <circle cx="160" cy="120" r="18" fill="#FF3B3B"/>
-  <circle cx="352" cy="120" r="18" fill="#FF3B3B"/>
-  <circle cx="112" cy="300" r="18" fill="#FF3B3B"/>
-  <circle cx="400" cy="300" r="18" fill="#FF3B3B"/>
-  <line x1="256" y1="220" x2="160" y2="120" stroke="#FF6B6B" stroke-width="6" stroke-linecap="round"/>
-  <line x1="256" y1="220" x2="352" y2="120" stroke="#FF6B6B" stroke-width="6" stroke-linecap="round"/>
-  <line x1="256" y1="220" x2="112" y2="300" stroke="#FF6B6B" stroke-width="6" stroke-linecap="round"/>
-  <line x1="256" y1="220" x2="400" y2="300" stroke="#FF6B6B" stroke-width="6" stroke-linecap="round"/>
-  
-  <!-- 中心节点光晕 -->
-  <circle cx="256" cy="220" r="72" fill="none" stroke="#FF3B3B" stroke-opacity="0.12" stroke-width="20"/>
-</svg>
-
  
 
 This is a **C2 server only 14MB in size**, implementing account-based session isolation and management. No complex installation is required—just run it and control it via a web interface.
@@ -175,5 +159,6 @@ Clearly, these nodes can be chained to form a network.
 ![alt text](./pic/image-21.png)
 
 ---
+
 
  
